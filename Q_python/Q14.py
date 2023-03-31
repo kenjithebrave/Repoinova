@@ -2,7 +2,7 @@ import pandas as pd
 
 df = pd.read_csv('actors.csv')
 
-grouped_data = df.groupby('Ator/Atriz')['Número de Filmes'].mean()
+grouped_data = df.groupby('Actor')['Number of Movies'].mean()
 
 actor_with_highest_average = grouped_data.idxmax()
 
