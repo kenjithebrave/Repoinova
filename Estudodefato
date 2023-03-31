@@ -1,0 +1,25 @@
+branchs -- ramificações no projeto
+
+commit -- avisar que fiz modificações 
+
+merge -- junção de uma  branch  alternativa e a linha do tempo principal (junta ramificações manntendo as linhas de código não alteradas)
+
+remote -- 
+
+push -- realiza o commit no github(empurra o que desenvolvi)
+
+pull -- puxa do github para modificações
+
+# Aqui estão alguns comandos Git básicos que podem ser úteis para iniciantes:
+
+git init: Cria um novo repositório Git local.
+git clone: Copia um repositório Git existente para o seu computador.
+git add: Adiciona arquivos modificados ou novos ao índice Git para serem incluídos no próximo commit.
+git commit: Cria um novo commit com as alterações adicionadas ao índice Git.
+git status: Mostra o status atual do repositório Git, incluindo quais arquivos foram modificados e quais foram adicionados ao índice Git.
+git branch: Mostra uma lista de todas as branches no repositório Git.
+git checkout: Alterna para outra branch ou commit específico.
+git merge: Combina alterações de uma branch para outra.
+git pull: Faz o download das alterações do repositório remoto e as mescla com o repositório local.
+git push: Envia as alterações locais para o repositório remoto.
+Esses comandos básicos devem ser suficientes para começar a usar o Git em seus projetos. No entanto, o Git tem muitos outros recursos avançados que podem ser úteis, e é uma boa ideia explorá-los com mais profundidade à medida que você ganha mais experiência com a ferramenta.
